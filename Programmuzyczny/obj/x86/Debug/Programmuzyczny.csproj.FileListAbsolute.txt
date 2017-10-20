@@ -1,0 +1,19 @@
+C:\Users\TEMP.VLO30-13.002\Documents\Visual Studio 2010\Projects\Programmuzyczny\Programmuzyczny\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\TEMP.VLO30-13.002\Documents\Visual Studio 2010\Projects\Programmuzyczny\Programmuzyczny\obj\x86\Debug\Programmuzyczny.csproj.ResolveComReference.cache
+C:\Users\TEMP.VLO30-13.002\Documents\Visual Studio 2010\Projects\Programmuzyczny\Programmuzyczny\bin\Debug\Programmuzyczny.exe
+C:\Users\TEMP.VLO30-13.002\Documents\Visual Studio 2010\Projects\Programmuzyczny\Programmuzyczny\bin\Debug\Programmuzyczny.pdb
+C:\Users\TEMP.VLO30-13.002\Documents\Visual Studio 2010\Projects\Programmuzyczny\Programmuzyczny\obj\x86\Debug\Programmuzyczny.Form1.resources
+C:\Users\TEMP.VLO30-13.002\Documents\Visual Studio 2010\Projects\Programmuzyczny\Programmuzyczny\obj\x86\Debug\Programmuzyczny.Properties.Resources.resources
+C:\Users\TEMP.VLO30-13.002\Documents\Visual Studio 2010\Projects\Programmuzyczny\Programmuzyczny\obj\x86\Debug\Programmuzyczny.csproj.GenerateResource.Cache
+C:\Users\TEMP.VLO30-13.002\Documents\Visual Studio 2010\Projects\Programmuzyczny\Programmuzyczny\obj\x86\Debug\Programmuzyczny.exe
+C:\Users\TEMP.VLO30-13.002\Documents\Visual Studio 2010\Projects\Programmuzyczny\Programmuzyczny\obj\x86\Debug\Programmuzyczny.pdb
+C:\Users\Dariusz\Desktop\INFORMATYKA\C#\Programmuzyczny\Programmuzyczny\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Dariusz\Desktop\INFORMATYKA\C#\Programmuzyczny\Programmuzyczny\obj\x86\Debug\Programmuzyczny.csproj.ResolveComReference.cache
+C:\Users\Dariusz\Desktop\INFORMATYKA\C#\Programmuzyczny\Programmuzyczny\obj\x86\Debug\Programmuzyczny.exe
+C:\Users\Dariusz\Desktop\INFORMATYKA\C#\Programmuzyczny\Programmuzyczny\obj\x86\Debug\Programmuzyczny.pdb
+C:\Users\Dariusz\Desktop\INFORMATYKA\C#\Programmuzyczny\Programmuzyczny\bin\Debug\Programmuzyczny.exe
+C:\Users\Dariusz\Desktop\INFORMATYKA\C#\Programmuzyczny\Programmuzyczny\bin\Debug\Programmuzyczny.pdb
+C:\Users\Dariusz\Desktop\INFORMATYKA\C#\Programmuzyczny\Programmuzyczny\obj\x86\Debug\Programmuzyczny.Form1.resources
+C:\Users\Dariusz\Desktop\INFORMATYKA\C#\Programmuzyczny\Programmuzyczny\obj\x86\Debug\Programmuzyczny.Properties.Resources.resources
+C:\Users\Dariusz\Desktop\INFORMATYKA\C#\Programmuzyczny\Programmuzyczny\obj\x86\Debug\Programmuzyczny.csproj.GenerateResource.Cache
+C:\Users\Dariusz\Desktop\INFORMATYKA\C#\Programmuzyczny\Programmuzyczny\obj\x86\Debug\Interop.MediaPlayer.dll
